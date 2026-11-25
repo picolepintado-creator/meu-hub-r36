@@ -1,0 +1,13 @@
+{
+  "jogos": [
+    {
+      "id": "tetris",
+      "nome": "Tetris Custom",
+      "versao": "1.0",
+      "descricao": "Port de teste criado para validar o Hub.",
+      "url_zip": "https://github.com/SEU_USUARIO/meu-hub-r36/raw/main/tetris.zip",
+      "pasta": "tetris_port",
+      "sh": "Tetris.sh"
+    }
+  ]
+}
