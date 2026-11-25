@@ -5,7 +5,7 @@
       "nome": "Tetris Custom",
       "versao": "1.0",
       "descricao": "Port de teste criado para validar o Hub.",
-      "url_zip": "https://github.com/SEU_USUARIO/meu-hub-r36/raw/main/tetris.zip",
+      "url_zip": "https://github.com/picolepintado-creator/meu-hub-r36/edit/main/catalogo.json",
       "pasta": "tetris_port",
       "sh": "Tetris.sh"
     }
